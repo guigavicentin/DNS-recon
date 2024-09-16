@@ -1,0 +1,1 @@
+Esse script Bash é uma automação para coletar, validar e realizar consultas DNS em subdomínios de um domínio especificado pelo usuário. Ele utiliza as ferramentas amass e subfinder para encontrar subdomínios, valida se eles têm um IP válido e executa consultas DNS com dig, host e nslookup para obter informações detalhadas sobre cada subdomínio.
